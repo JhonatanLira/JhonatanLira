@@ -4,7 +4,7 @@
 Em construção
 :construction:
 </h4>
-<!-- 
+
 
 https://github.com/LuigiGf/LuigiGf/blob/main/README.md?plain=1
 https://www.youtube.com/watch?v=XsORJsevKog&t=27s
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=XsORJsevKog&t=27s
  <img src="https://github-readme-stats.vercel.app/api?username=JhonatanLira&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanLira&layout=compact&langs_count=16&theme=react"/>
  
- 
+ <!-- 
  
 <div  align="center"> 
   <div style="display: inline_block"><br>
