@@ -37,6 +37,8 @@ Em construção
     </a>
    
 </div>
+
+<br> <br> 
   
 ![Snake animation](https://github.com/JhonatanLira/JhonatanLira/blob/output/github-contribution-grid-snake.svg)
 
