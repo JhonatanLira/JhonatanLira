@@ -9,6 +9,7 @@ Em construção
       https://github.com/abhisheknaiidu/awesome-github-profile-readme |https://devicon.dev/ -->
       
 <div>
+ &emsp;
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonatanLira&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
 &emsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanLira&layout=compact&langs_count=16&theme=react"/>
