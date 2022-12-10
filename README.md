@@ -18,7 +18,7 @@ Em construção
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-       <br><br><br> 
+       <br>
     <h1 align="center">Melhores Tecnologias </h1>
     <img align="center" height="30" width="40" alt="java-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     <img align="center" height="30" width="40" alt="spring-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
