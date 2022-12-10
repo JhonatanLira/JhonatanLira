@@ -13,6 +13,7 @@ Em construção
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanLira&layout=compact&langs_count=16&theme=react"/>
 <br> 
 </div>
+
 <br> 
  
 <div  align="center"> 
@@ -26,7 +27,9 @@ Em construção
     <img align="center" height="30" width="40" alt="postgres-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
    <!-- <img align="center" height="30" width="40" alt="angular-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">-->
    </div>
- 
+ <div>
+  <p> <br>  </p>
+ </div>
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto:jhonatanlira@gmail.com">
