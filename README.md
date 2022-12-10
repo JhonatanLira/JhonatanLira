@@ -16,10 +16,10 @@ Em construção
 
 <br> 
  
-<div  align="center"> 
+<div  > 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-       <br>
+    <br>
     <h1 align="center">Melhores Tecnologias </h1>
     <img align="center" height="30" width="40" alt="java-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     <img align="center" height="30" width="40" alt="spring-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
@@ -27,9 +27,6 @@ Em construção
     <img align="center" height="30" width="40" alt="postgres-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
    <!-- <img align="center" height="30" width="40" alt="angular-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">-->
    </div>
- <div>
-  <p> <br>  </p>
- </div>
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto:jhonatanlira@gmail.com">
