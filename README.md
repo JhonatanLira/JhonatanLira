@@ -40,6 +40,6 @@ Em construção
 </div>
 
   
-![Snake animation](https://github.com/JhonatanLira/JhonatanLira/blob/output/github-contribution-grid-snake.svg)
+
 
 
