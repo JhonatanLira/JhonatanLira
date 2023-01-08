@@ -22,21 +22,19 @@ Em construção
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <br>
     <h1 align="center">Melhores Tecnologias </h1>
-    <img align="center" height="30" width="40" alt="java-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-    <img align="center" height="30" width="40" alt="spring-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-    <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" height="30" width="40" alt="postgres-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img align="center" height="40" width="50" alt="java-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+    <img align="center" height="40" width="50" alt="spring-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+    <img align="center" height="40" width="50" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" height="40" width="50" alt="postgres-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
    <!-- <img align="center" height="30" width="40" alt="angular-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">-->
    </div>
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto:jhonatanlira@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/jhonatan-lira">
-      <img width="25" src="linkedin.svg">
-    </a>
+    <a href = "mailto:jhonatanlira@gmail.com"> <img width="50" src="gmail.svg"> </a>
+ &emsp;
+    <a href = "https://www.linkedin.com/in/jhonatan-lira"> <img width="50" height="40" src="linkedin.svg"> </a>
    
+ 
 </div>
 
 <!-- ![Snake animation](https://github.com/JhonatanLira/JhonatanLira/blob/output/github-contribution-grid-snake.svg) -->
