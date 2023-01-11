@@ -34,7 +34,6 @@ Em construção
  &emsp;
     <a href = "https://www.linkedin.com/in/jhonatan-lira"> <img width="50" height="40" src="linkedin.svg"> </a>
    
- 
 </div>
 
 <!-- ![Snake animation](https://github.com/JhonatanLira/JhonatanLira/blob/output/github-contribution-grid-snake.svg) -->
