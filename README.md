@@ -25,8 +25,8 @@ Em construção
         
    <!-- <img align="center" height="30" width="40" alt="angular-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">-->
    </div>
-
- 
+</div>
+ <div align="center" >
       <h1 align="center">Redes Sociais</h1>
     <a href = "mailto:jhonatanlira@gmail.com"> <img width="50" src="gmail.svg"> </a>
  &emsp;
