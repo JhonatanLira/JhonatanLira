@@ -4,17 +4,12 @@
 Em construção
 :construction:
 </h4> -->
-
- <!-- https://github.com/LuigiGf/LuigiGf/blob/main/README.md?plain=1 | https://www.youtube.com/watch?v=XsORJsevKog&t=27s 
-      https://github.com/abhisheknaiidu/awesome-github-profile-readme |https://devicon.dev/ -->
       
-<div>
+
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonatanLira&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
 &emsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanLira&layout=compact&langs_count=16&theme=react"/>
 <br> 
-</div>
-
 <br> 
  
 <div align="center" > 
