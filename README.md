@@ -23,7 +23,6 @@ Em construção
     <img align="center" height="40" width="50" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" height="40" width="50" alt="postgres-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
         
-   <!-- <img align="center" height="30" width="40" alt="angular-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">-->
    </div>
 </div>
  <div align="center" >
