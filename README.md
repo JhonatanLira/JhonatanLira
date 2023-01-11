@@ -25,7 +25,7 @@ Em construção
         
    <!-- <img align="center" height="30" width="40" alt="angular-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">-->
    </div>
-  https://raw-githubusercontent-com.translate.goog/klaasnicolaas/ColoredBadges/master/svg/dev/languages/python.svg?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=sc
+
  
       <h1 align="center">Redes Sociais</h1>
     <a href = "mailto:jhonatanlira@gmail.com"> <img width="50" src="gmail.svg"> </a>
