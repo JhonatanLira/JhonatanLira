@@ -1,6 +1,8 @@
 <h1 align="center">Oi 👋, sou Jhonatan Lira</h1>
 <h3 align="center">Bem vindo ao meu Github</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonatanlira&label=Profile%20views&color=0e75b6&style=flat" alt="jhonatanlira" /> </p>
+
 - 📫 How to reach me **jhonatanlira@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
