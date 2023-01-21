@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Oi Jhonatan Lira</h1>
+<h1 align="center">Oi 👋, sou Jhonatan Lira</h1>
 <h3 align="center">Bem vindo ao meu Github</h3>
 
 - 📫 How to reach me **jhonatanlira@gmail.com**
