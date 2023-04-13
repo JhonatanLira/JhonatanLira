@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, sou Jhonatan Lira</h1>
 <h3 align="center">Bem vindo ao meu Github</h3>
 
-<p align="left"> <img src="" alt="jhonatanlira" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonatanlira&label=Profile%20views&color=0e75b6&style=flat" alt="jhonatanlira" /> </p> -->
 
 - 📫 How to reach me &nbsp; </br> </br>
 <a href="jhonatanlira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
