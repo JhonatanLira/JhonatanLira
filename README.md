@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonatanlira&label=Profile%20views&color=0e75b6&style=flat" alt="jhonatanlira" /> </p>
 
-- 📫 How to reach me &nbsp; </br> </br>
+- 📫 How to reach me </br> </br>
 <a href="jhonatanlira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jhonatan-lira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhonatan-lira" height="30" width="40" /></a>
-</p>
+- <h3 align="left">Connect with me:</h3>
+
+<p> <a href="linkedin.com/in/jhonatan-lira"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  
+<!-- <a> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a> -->
+
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 
