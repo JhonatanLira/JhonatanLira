@@ -8,7 +8,7 @@
 
 - <h3 align="left">Connect with me:</h3>
 
-<p> <a href="[linkedin.com/in/jhonatan-lira](https://www.linkedin.com/in/jhonatan-lira/)"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<p> <a href="https://www.linkedin.com/in/jhonatan-lira/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   
 <!-- <a> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a> -->
 
