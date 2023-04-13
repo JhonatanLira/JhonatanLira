@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonatanlira&label=Profile%20views&color=0e75b6&style=flat" alt="jhonatanlira" /> </p>
 
 - 📫 How to reach me </br> </br>
-<a href="jhonatanlira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:jhonatanlira@gmail.com?" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 - <h3 align="left">Connect with me:</h3>
 
