@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonatanlira&label=Profile%20views&color=0e75b6&style=flat" alt="jhonatanlira" /> </p>
 
--<h3> 📫 Como chegar até mim:  </h3></br>
+- <h3> 📫 Como chegar até mim:  </h3></br>
 <a href="mailto:jhonatanlira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 - <h3 align="left">Conecte-se comigo:</h3>
