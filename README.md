@@ -14,15 +14,23 @@
 
 
 <h3 align="left">Linguagens e ferramentas:</h3>
-
-![Java](https://img.shields.io/badge/Java-D33833?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+<p>
+  
+![Java](https://img.shields.io/badge/Java-D33833?style=for-the-badge&logo=openjdk&logoColor=black)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-<p><br>
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![Mockito](https://img.shields.io/badge/Mockito-236DB33F?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+
+</p>
+<p>
+  
+ ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
+ ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+ ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonatanlira&" alt="jhonatanlira" /></p>
