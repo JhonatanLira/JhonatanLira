@@ -22,7 +22,7 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![Mockito](https://img.shields.io/badge/Mockito-236DB33F?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+<!--![Mockito](https://img.shields.io/badge/Mockito-236DB33F?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;-->
 
 </p>
 <p>
